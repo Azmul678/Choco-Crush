@@ -1,11 +1,11 @@
 {
-	"name": "Fruit Crush",
-	"short_name": "Fruit Crush",
+	"name": "Choco Crush",
+	"short_name": "Choco Crush",
 	"description": "1",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
-	"background_color": "#ffffff",
+	"background_color": "#f8d1d1",
 	"icons": [
 		{
 			"src": "icons/icon-16.png",
